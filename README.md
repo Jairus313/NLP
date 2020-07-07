@@ -12,4 +12,4 @@
 
 - **word2vec.ipynb**
 
-- **text_summerizer.ipynb**
+- **text_summarization.ipynb**
