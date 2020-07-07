@@ -10,4 +10,6 @@
   - Lemmatizing
   - CountVectorizer
 
-- **word2vec.ipynb:**
+- **word2vec.ipynb**
+
+- **text_summerizer.ipynb**
